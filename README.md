@@ -1,4 +1,4 @@
-#Twitter Model
+# Twitter Model
 
 This is a web model for Twitter developed in Ruby on Rails according to MVC and
 REST architectural models. It incorporates a full suite of features, including:
