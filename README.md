@@ -1,4 +1,12 @@
-# Ruby on Rails Tutorial sample application
+#Twitter Model
+
+This is a web model for Twitter developed in Ruby on Rails according to MVC and
+REST architectural models. It incorporates a full suite of features, including:
+* Users (with unidirectional following, administrator privileges, and user indices)
+* Microposts (with news feeds, pagination, and image attachment)
+* Sign-up and log-in (with email verification, password reset, and SSL encryption)
+
+## Ruby on Rails Tutorial sample application
 
 This is the sample application for
 [*Ruby on Rails Tutorial:
