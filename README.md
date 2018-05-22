@@ -8,7 +8,7 @@ REST architectural models. It incorporates a full suite of features, including:
 The application is deployed using Heroku to handle database storage (for the user,
 micropost, and following models) and for (relatively) scalable server use.
 
-View the deployed Twitter Model `[here](http://www.twitter-model.herokuapp.com/)`
+> View the deployed Twitter Model [here](http://www.twitter-model.herokuapp.com/)
 
 ## Ruby on Rails Tutorial sample application
 
