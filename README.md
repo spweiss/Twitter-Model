@@ -12,7 +12,7 @@ user, micropost, and following models) and for (relatively) scalable server use.
 
 ## View
 
-View the deployed Twitter Model [here](http://www.twitter-model.herokuapp.com/).
+View the deployed Twitter Model [here](https://www.twitter-model.herokuapp.com/).
 
 ## Getting started
 
